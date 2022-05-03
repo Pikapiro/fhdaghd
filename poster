@@ -1,1 +1,77 @@
-https://github.com/Pikapiro/daniz.git
+<!DOCTYPE html>
+<html lang="en" dir="rtl">
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>poster</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='styles.css'>
+    <script src='main.js'></script>
+</head>
+<body >
+    <div id="heading">
+
+    <div id="pic">
+<img src="logo/1200px-TelHaiAcademic.svg.png" alt="" id="logo">
+  </div>
+  <div id="dit">
+<h3>פרוייקת מחקר מעבדה ניסויית</h3>
+<p>שם העבודה</p>
+<br>
+<p>שמות המצגים</p>
+<br>
+<p>שם המנחה</p>
+</div>
+</div>
+<div id="over">
+<div class="rows" id="row-1">
+
+<div class="coteret" id="row-1FirstHeading">
+<p>רקע תיאורטי</p>
+
+
+</div>
+<div id="row-1Firstbox">
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. <br> Odit assumenda distinctio quisquam in sequi quis <br> cum illum modi atque, nulla recusandae, deleniti aliquid nemo at iure quam? Modi, ipsa vitae!
+
+</div>
+<div class="secondhead"  id="row-1SecondHeading">
+<p>שיטה</p>
+</div>
+<div id="row-1Secondbox">
+
+</div>
+</div>
+<div class="rows" id="row-2">
+    <div id="row-2FirstBox">
+
+    </div>
+    <div class="secondhead"  id="row-3SecondtHeading">
+        <P>ממצאים</P>
+    </div>
+ <div id="row-2SecondBox">
+
+</div>
+
+</div>
+<div class="rows" id="row-3">
+    <div class="coteret" id="row-3FirstHeading">
+<P>דיון</P>
+    </div>
+  
+    <div id="row-3FirstBox">
+
+</div>
+<div class="secondhead"  id="row-3SecondtHeading">
+<P>מסקנות</P>
+</div>
+<div id="row-3SecondBox">
+
+</div>
+
+
+</div>
+</div>
+
+</body>
+</html>
